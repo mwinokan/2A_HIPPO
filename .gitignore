@@ -1,0 +1,15 @@
+
+.DS_Store
+.ipynb_checkpoints/
+
+# ignore fragalysis stuff
+README.pdf
+aligned_files
+yaml_files
+extra_files_1
+smiles.smi
+metadata.csv
+*_combined.sdf
+
+# Ignore databases
+*.sqlite
