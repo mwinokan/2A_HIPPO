@@ -11,5 +11,8 @@ smiles.smi
 metadata.csv
 *_combined.sdf
 
+# ignore other stuff
+attic/
+
 # Ignore databases
 *.sqlite
