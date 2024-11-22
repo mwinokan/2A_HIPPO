@@ -59,7 +59,7 @@ YVFXOSQSQHCMKO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (1) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (1) 
 
@@ -171,7 +171,7 @@ VMYFKAZPRAZUQC-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (2) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (2) 
 
@@ -263,7 +263,7 @@ RSIPQHOWTCNEBI-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (3) 
-['hits', '[Other] New', '[Other] S3 site', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', '[Other] S3 site', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (3) 
 
@@ -388,7 +388,7 @@ JLNHRNVWTVJBTF-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (4) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (4) 
 
@@ -495,7 +495,7 @@ CGUIJOTZYHWBSQ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (5) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (5) 
 
@@ -605,7 +605,7 @@ OHXYWSIWHXTWCT-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (6) 
-['[Other] S2 site', 'hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (6) 
 
@@ -717,7 +717,7 @@ JMSBGUKOMZSBMF-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (7) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (7) 
 
@@ -829,7 +829,7 @@ SVSOJZPVHKCFPK-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (8) 
-['[Other] S4 site', '[Other] New', 'hits', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] S5 site', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] S5 site', '[Other] Fragment', '[Other] S4 site', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (8) 
 
@@ -941,7 +941,7 @@ AOLISVCNSODKGB-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (9) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (9) 
 
@@ -1044,7 +1044,7 @@ DHUDCBCQKIWLSB-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (10) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (10) 
 
@@ -1145,7 +1145,7 @@ HFZYCRPBIIVEAW-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (11) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (11) 
 
@@ -1249,7 +1249,7 @@ REHRQXVEAXFIML-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (12) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (12) 
 
@@ -1357,7 +1357,7 @@ CMZBFAJLBDAJMC-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (13) 
-['[Other] S2 site', 'hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (13) 
 
@@ -1465,7 +1465,7 @@ CMZBFAJLBDAJMC-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (14) 
-['[Other] S2 site', 'hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (14) 
 
@@ -1571,7 +1571,7 @@ OMIHQJBWAPWLBO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (15) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (15) 
 
@@ -1677,7 +1677,7 @@ OMIHQJBWAPWLBO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (16) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (16) 
 
@@ -1780,7 +1780,7 @@ XLQIGLBALJNHKR-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (17) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (17) 
 
@@ -1883,7 +1883,7 @@ XLQIGLBALJNHKR-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (18) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (18) 
 
@@ -2001,7 +2001,7 @@ JRTRCSIVSIKKCQ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (19) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (19) 
 
@@ -2104,7 +2104,7 @@ VRWFXRMPZMWPKH-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (20) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (20) 
 
@@ -2210,7 +2210,7 @@ MNHXJOCWNHZKLQ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (21) 
-['[Other] S4 site', '[Other] New', 'hits', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] S5 site', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] S5 site', '[Other] Fragment', '[Other] S4 site', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (21) 
 
@@ -2322,7 +2322,7 @@ JWLJWMCLUCDWSD-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (22) 
-['[Other] S2 site', 'hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (22) 
 
@@ -2434,7 +2434,7 @@ JWLJWMCLUCDWSD-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (23) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (23) 
 
@@ -2552,7 +2552,7 @@ DLXXWXOFLPDGAD-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (24) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (24) 
 
@@ -2663,7 +2663,7 @@ NIHQHFJWDDQIMY-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (25) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (25) 
 
@@ -2771,7 +2771,7 @@ DCOHDTHCOCZQTO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (26) 
-['[Other] S2 site', 'hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (26) 
 
@@ -2879,7 +2879,7 @@ DCOHDTHCOCZQTO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (27) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (27) 
 
@@ -2989,7 +2989,7 @@ NILOPFIVQCAHIP-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (28) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (28) 
 
@@ -3097,7 +3097,7 @@ OKVUYVXDTGOYRU-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (29) 
-['[Other] S2 site', 'hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (29) 
 
@@ -3200,7 +3200,7 @@ XJISISZPFKFZEU-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (30) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (30) 
 
@@ -3312,7 +3312,7 @@ OUJFDUTZTPBMDN-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (31) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (31) 
 
@@ -3424,7 +3424,7 @@ ZFLKDMGBVZHBAC-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (32) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (32) 
 
@@ -3536,7 +3536,7 @@ ABNRKDROCBKFEH-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (33) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (33) 
 
@@ -3648,7 +3648,7 @@ ABNRKDROCBKFEH-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (34) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (34) 
 
@@ -3755,7 +3755,7 @@ PXJRMCHXJXWNJG-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (35) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (35) 
 
@@ -3868,7 +3868,7 @@ OPUWQKONOBGDBJ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (36) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (36) 
 
@@ -3977,7 +3977,7 @@ GCDMTIQQHYQVGI-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (37) 
-['[Other] S2 site', 'hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (37) 
 
@@ -4093,7 +4093,7 @@ GNNODMPIMQHVQL-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (38) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (38) 
 
@@ -4198,7 +4198,7 @@ YLDKGNWSSXYUAH-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (39) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (39) 
 
@@ -4314,7 +4314,7 @@ VQOCCTAPSDVOOO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (40) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (40) 
 
@@ -4430,7 +4430,7 @@ VQOCCTAPSDVOOO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (41) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (41) 
 
@@ -4542,7 +4542,7 @@ VJDVDWXYFZNXLH-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (42) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (42) 
 
@@ -4650,7 +4650,7 @@ BZFKHPWXOXGGCH-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (43) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (43) 
 
@@ -4758,7 +4758,7 @@ BZFKHPWXOXGGCH-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (44) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (44) 
 
@@ -4861,7 +4861,7 @@ UPEFDWJLNXWMOW-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (45) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (45) 
 
@@ -4968,7 +4968,7 @@ IZJVPNBRAKIMBK-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (46) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (46) 
 
@@ -5075,7 +5075,7 @@ IZJVPNBRAKIMBK-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (47) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (47) 
 
@@ -5187,7 +5187,7 @@ SQKAEGRLXBUQKF-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (48) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (48) 
 
@@ -5299,7 +5299,7 @@ IOOTXFHTMOUUHM-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (49) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (49) 
 
@@ -5404,7 +5404,7 @@ OSFAUZAAZLLTSW-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (50) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (50) 
 
@@ -5511,7 +5511,7 @@ JGDDFCYMSLNOGJ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (51) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (51) 
 
@@ -5619,7 +5619,7 @@ QELUYTUMUWHWMC-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (52) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (52) 
 
@@ -5733,7 +5733,7 @@ UKPLBUIFSDRLEZ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (53) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (53) 
 
@@ -5847,7 +5847,7 @@ UKPLBUIFSDRLEZ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (54) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (54) 
 
@@ -5961,7 +5961,7 @@ UKPLBUIFSDRLEZ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (55) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (55) 
 
@@ -6071,7 +6071,7 @@ LMUYJJAKMZKBHS-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (56) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (56) 
 
@@ -6176,7 +6176,7 @@ QCSOEUMGZOKXPJ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (57) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (57) 
 
@@ -6286,7 +6286,7 @@ SNURKZHBZPONJX-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (58) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (58) 
 
@@ -6391,7 +6391,7 @@ HXCHZMHFZXNFIX-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (59) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (59) 
 
@@ -6496,7 +6496,7 @@ HXCHZMHFZXNFIX-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (60) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (60) 
 
@@ -6601,7 +6601,7 @@ HXCHZMHFZXNFIX-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (61) 
-['hits', '[Other] New', '[Other] S1 site', 'Crystalforms short tag', '[Other] Fragment', "[Other] S1' site", 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', "[Other] S1' site", '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S1 site', 'Pose']
 
 >  <reference>  (61) 
 
@@ -6708,7 +6708,7 @@ YMSMEZAYZIYFGA-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (62) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (62) 
 
@@ -6819,7 +6819,7 @@ XZMRSYKEMFCZKR-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (63) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (63) 
 
@@ -6932,7 +6932,7 @@ NLGYHTMGWVQQIL-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (64) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (64) 
 
@@ -7045,7 +7045,7 @@ NLGYHTMGWVQQIL-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (65) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (65) 
 
@@ -7144,7 +7144,7 @@ ZLDOCTTXAVVDHG-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (66) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (66) 
 
@@ -7256,7 +7256,7 @@ CTAOPYAHPUKQBH-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (67) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (67) 
 
@@ -7368,7 +7368,7 @@ BFRXGCPOQMOBHK-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (68) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (68) 
 
@@ -7473,7 +7473,7 @@ HGZULNNLLFYOFI-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (69) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (69) 
 
@@ -7579,7 +7579,7 @@ LKIGQRFSSGGKQW-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (70) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (70) 
 
@@ -7680,7 +7680,7 @@ RNOJUWVVUNEZSV-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (71) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (71) 
 
@@ -7782,7 +7782,7 @@ BZACBBRLMWHCNM-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (72) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (72) 
 
@@ -7883,7 +7883,7 @@ PUIJVJNJITYIIM-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (73) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (73) 
 
@@ -7990,7 +7990,7 @@ YJCZGTAEFYFJRJ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (74) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (74) 
 
@@ -8097,7 +8097,7 @@ HXLOQIXEAPZOSG-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (75) 
-['hits', '[Other] New', '[Other] S3 site', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', '[Other] S3 site', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (75) 
 
@@ -8204,7 +8204,7 @@ HXLOQIXEAPZOSG-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (76) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (76) 
 
@@ -8313,7 +8313,7 @@ XXCOYYOVKYXTIE-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (77) 
-['hits', '[Other] New', '[Other] S3 site', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', '[Other] S3 site', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (77) 
 
@@ -8431,7 +8431,7 @@ SPKPARPPRVMDOW-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (78) 
-['hits', '[Other] New', '[Other] S3 site', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', '[Other] S3 site', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (78) 
 
@@ -8539,7 +8539,7 @@ PVROETJHCUDAFG-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (79) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (79) 
 
@@ -8651,7 +8651,7 @@ IGPFOKFDBICQMC-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (80) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (80) 
 
@@ -8765,7 +8765,7 @@ MXDBCXKVTJDKNP-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (81) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (81) 
 
@@ -8879,7 +8879,7 @@ MXDBCXKVTJDKNP-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (82) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (82) 
 
@@ -8992,7 +8992,7 @@ OUGQMSXIPFSZBI-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (83) 
-['[Other] S4 site', '[Other] New', 'hits', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] S5 site', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] S5 site', '[Other] Fragment', '[Other] S4 site', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (83) 
 
@@ -9101,7 +9101,7 @@ RNVOPVJRSRXPSX-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (84) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (84) 
 
@@ -9210,7 +9210,7 @@ FXILSJTWIHHRJV-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (85) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (85) 
 
@@ -9319,7 +9319,7 @@ FXILSJTWIHHRJV-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (86) 
-['hits', '[Other] New', '[Other] S1 site', 'Crystalforms short tag', '[Other] Fragment', "[Other] S1' site", 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', "[Other] S1' site", '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S1 site', 'Pose']
 
 >  <reference>  (86) 
 
@@ -9428,7 +9428,7 @@ GVNXANNAMKHSRF-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (87) 
-['[Other] S2 site', 'hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (87) 
 
@@ -9534,7 +9534,7 @@ LKIGQRFSSGGKQW-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (88) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (88) 
 
@@ -9646,7 +9646,7 @@ VZIWWLIHHFDZEO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (89) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] S5 site', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] S5 site', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (89) 
 
@@ -9755,7 +9755,7 @@ QTVILMLWBQTJNT-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (90) 
-['[Other] S2 site', 'hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (90) 
 
@@ -9864,7 +9864,7 @@ VINVRWFILPAKSR-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (91) 
-['[Other] S2 site', 'hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Series] Piperidine series', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['[Series] Piperidine series', 'ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (91) 
 
@@ -9971,7 +9971,7 @@ RNRCAQYXOAHKGD-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (92) 
-['hits', '[Other] New', '[Other] S1 site', 'Crystalforms short tag', '[Other] Fragment', "[Other] S1' site", 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', "[Other] S1' site", '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S1 site', 'Pose']
 
 >  <reference>  (92) 
 
@@ -10064,7 +10064,7 @@ YAMHXTCMCPHKLN-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (93) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (93) 
 
@@ -10157,7 +10157,7 @@ YAMHXTCMCPHKLN-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (94) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (94) 
 
@@ -10252,7 +10252,7 @@ JFGXRDGYMLGBBB-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (95) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (95) 
 
@@ -10358,7 +10358,7 @@ JVZRCNQLWOELDU-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (96) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (96) 
 
@@ -10464,7 +10464,7 @@ JVZRCNQLWOELDU-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (97) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (97) 
 
@@ -10574,7 +10574,7 @@ LCALUFNLWHYTKX-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (98) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (98) 
 
@@ -10680,7 +10680,7 @@ RFJQGIYJJLWZJP-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (99) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (99) 
 
@@ -10792,7 +10792,7 @@ BDGKBEOKGJRBPL-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (100) 
-['hits', '[Other] New', '[Other] S1 site', 'Crystalforms short tag', '[Other] Fragment', "[Other] S1' site", 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', "[Other] S1' site", '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S1 site', 'Pose']
 
 >  <reference>  (100) 
 
@@ -10902,7 +10902,7 @@ WATWKPHWUDHKGA-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (101) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (101) 
 
@@ -11012,7 +11012,7 @@ WATWKPHWUDHKGA-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (102) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (102) 
 
@@ -11120,7 +11120,7 @@ VXOJYMHSOARYSV-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (103) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (103) 
 
@@ -11213,7 +11213,7 @@ FHZALEJIENDROK-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (104) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (104) 
 
@@ -11306,7 +11306,7 @@ FHZALEJIENDROK-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (105) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (105) 
 
@@ -11401,7 +11401,7 @@ UEEBKQWDBWDPKD-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (106) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (106) 
 
@@ -11511,7 +11511,7 @@ OHXYWSIWHXTWCT-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (107) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', 'Quatassemblies short tag', '[Series] Piperidine series', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['[Series] Piperidine series', 'ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (107) 
 
@@ -11604,7 +11604,7 @@ BQRBAXFOPZRMCU-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (108) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] S5 site', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] S5 site', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (108) 
 
@@ -11697,7 +11697,7 @@ BQRBAXFOPZRMCU-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (109) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (109) 
 
@@ -11790,7 +11790,7 @@ AXHRGVJWDJDYPO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (110) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (110) 
 
@@ -11902,7 +11902,7 @@ RNGNQMRREZVUSH-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (111) 
-['hits', '[Other] New', '[Other] S3 site', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', '[Other] S3 site', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (111) 
 
@@ -12007,7 +12007,7 @@ DIGIWFMOFFHOCA-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (112) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (112) 
 
@@ -12115,7 +12115,7 @@ UWYBOEZQGCFECQ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (113) 
-['hits', '[Other] New', 'Crystalforms short tag', '[Other] Fragment', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] Fragment', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (113) 
 
@@ -12217,7 +12217,7 @@ NCZQAIFOXJOCFI-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (114) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (114) 
 
@@ -12358,7 +12358,7 @@ BKBFLODZEQEWBQ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (115) 
-['[Other] S2 site', '[Other] P2 Wave 1', 'hits', '[Other] New', '[Other] S3 site', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] P2 Wave 1', '[Other] S3 site', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (115) 
 
@@ -12475,7 +12475,7 @@ NZVJBVJDSSUPIL-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (116) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (116) 
 
@@ -12592,7 +12592,7 @@ NZVJBVJDSSUPIL-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (117) 
-['[Other] P2 Wave 1', 'hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Other] P2 Wave 1', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (117) 
 
@@ -12699,7 +12699,7 @@ XZJXCESWBMDSBO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (118) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', '[Other] Bogyo covalents', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', '[Other] Covalent', 'CanonSites short tag']
+['[Other] Covalent', 'ConformerSites short tag', '[Other] Bogyo covalents', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (118) 
 
@@ -12808,7 +12808,7 @@ JGCDYYAXNUYBHB-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (119) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', '[Other] Bogyo covalents', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', '[Other] Covalent', 'CanonSites short tag']
+['[Other] Covalent', 'ConformerSites short tag', '[Other] Bogyo covalents', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (119) 
 
@@ -12922,7 +12922,7 @@ HSHULNOIEDSBFV-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (120) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', '[Other] Bogyo covalents', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', '[Other] Covalent', 'CanonSites short tag']
+['[Other] Covalent', 'ConformerSites short tag', '[Other] Bogyo covalents', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (120) 
 
@@ -13034,7 +13034,7 @@ SGXMEUBMGXFRJY-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (121) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', '[Other] Bogyo covalents', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', '[Other] Covalent', 'CanonSites short tag']
+['[Other] Covalent', 'ConformerSites short tag', '[Other] Bogyo covalents', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (121) 
 
@@ -13144,7 +13144,7 @@ DXESIOGIYNKDQX-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (122) 
-['hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (122) 
 
@@ -13276,7 +13276,7 @@ FCRASUWOKLJVQY-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (123) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (123) 
 
@@ -13395,7 +13395,7 @@ JXKYXHWVMLLNCD-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (124) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (124) 
 
@@ -13512,7 +13512,7 @@ LJCPETRSDJEEFS-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (125) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (125) 
 
@@ -13622,7 +13622,7 @@ GDGNASXSZYDGJM-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (126) 
-['hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (126) 
 
@@ -13727,7 +13727,7 @@ HGZULNNLLFYOFI-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (127) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (127) 
 
@@ -13836,7 +13836,7 @@ GVNXANNAMKHSRF-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (128) 
-['hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Other] S1 site', "[Other] S1' site", 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', "[Other] S1' site", 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S1 site', 'Pose']
 
 >  <reference>  (128) 
 
@@ -13941,7 +13941,7 @@ OSFAUZAAZLLTSW-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (129) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (129) 
 
@@ -14051,7 +14051,7 @@ DVVWQQZWRTXTMK-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (130) 
-['hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Other] S1 site', "[Other] S1' site", 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', "[Other] S1' site", 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S1 site', 'Pose']
 
 >  <reference>  (130) 
 
@@ -14169,7 +14169,7 @@ GXPNSFDRGMRUJM-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (131) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (131) 
 
@@ -14292,7 +14292,7 @@ ONGQCMNCDUWDOR-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (132) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (132) 
 
@@ -14413,7 +14413,7 @@ FWZMGOFFERWMMX-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (133) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (133) 
 
@@ -14533,7 +14533,7 @@ PUSSAGYROFRULS-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (134) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', 'Quatassemblies short tag', '[Series] Piperidine series', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['[Series] Piperidine series', 'ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (134) 
 
@@ -14656,7 +14656,7 @@ RYIGIXMEYULONZ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (135) 
-['hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (135) 
 
@@ -14774,7 +14774,7 @@ UFYNWTYMVOYUIH-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (136) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (136) 
 
@@ -14893,7 +14893,7 @@ KPYFSQUXIWVGBB-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (137) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (137) 
 
@@ -15012,7 +15012,7 @@ OUXJTKZWAHXWFL-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (138) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (138) 
 
@@ -15135,7 +15135,7 @@ UIOOLKZMABSWFR-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (139) 
-['[Other] S2 site', 'hits', '[Other] New', '[Other] P3 compound design', 'Crystalforms short tag', '[Series] Indazole series', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', '[Series] Indazole series', 'Quatassemblies short tag', '[Other] New', '[Other] P3 compound design', 'CrystalformSites short tag', 'hits', '[Other] S2 site', 'Pose']
 
 >  <reference>  (139) 
 
@@ -15258,7 +15258,7 @@ UIOOLKZMABSWFR-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (140) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (140) 
 
@@ -15380,7 +15380,7 @@ OPWHNDXSBIGKDG-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (141) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (141) 
 
@@ -15507,7 +15507,7 @@ GWEIDNCYZCGNCA-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (142) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (142) 
 
@@ -15632,7 +15632,7 @@ CRNUDQYYIFSPOP-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (143) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (143) 
 
@@ -15754,7 +15754,7 @@ AIIHQTSFOFCJLB-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (144) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (144) 
 
@@ -15874,7 +15874,7 @@ MJQJNTRPVVBPCI-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (145) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (145) 
 
@@ -15994,7 +15994,7 @@ MKGWZERGGHSXDY-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (146) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (146) 
 
@@ -16122,7 +16122,7 @@ PQWPTZNVERXTJW-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (147) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (147) 
 
@@ -16247,7 +16247,7 @@ LGXQTWXKSGIVMI-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (148) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (148) 
 
@@ -16370,7 +16370,7 @@ DUAFBFAQMMCFPO-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (149) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (149) 
 
@@ -16490,7 +16490,7 @@ WUDFFWUBHSFYAN-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (150) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (150) 
 
@@ -16606,7 +16606,7 @@ UUCCVHLCPSLNLR-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (151) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (151) 
 
@@ -16729,7 +16729,7 @@ VGFDAVBEVLFUNW-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (152) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (152) 
 
@@ -16856,7 +16856,7 @@ PRVGSTBOTABTCE-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (153) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (153) 
 
@@ -16978,7 +16978,7 @@ ZKUXUDCBALXGFV-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (154) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (154) 
 
@@ -17099,7 +17099,7 @@ BNONJNCLVIRUCY-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (155) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (155) 
 
@@ -17222,7 +17222,7 @@ CQXUVXZMIRAKCU-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (156) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (156) 
 
@@ -17336,7 +17336,7 @@ BHEPYCGCQDUONZ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (157) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (157) 
 
@@ -17465,7 +17465,7 @@ CKEMLAIIJWKKOM-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (158) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (158) 
 
@@ -17595,7 +17595,7 @@ IQCXYYIXAUMMTK-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (159) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (159) 
 
@@ -17718,7 +17718,7 @@ WLVBXUMLICFSSW-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (160) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (160) 
 
@@ -17851,7 +17851,7 @@ ZXSRGQIDSRIHFJ-UHFFFAOYSA-N
 A71EV2A
 
 >  <tags>  (161) 
-['hits', '[Other] New', 'Crystalforms short tag', 'Quatassemblies short tag', 'Pose', 'CrystalformSites short tag', 'ConformerSites short tag', 'CanonSites short tag']
+['ConformerSites short tag', 'Crystalforms short tag', 'CanonSites short tag', 'Quatassemblies short tag', '[Other] New', 'CrystalformSites short tag', 'hits', 'Pose']
 
 >  <reference>  (161) 
 
