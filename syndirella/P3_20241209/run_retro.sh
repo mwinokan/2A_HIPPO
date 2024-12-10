@@ -1,7 +1,5 @@
 #!/bin/bash
 
-export MANIFOLD_API_KEY="v1:IEgBrU-Vi4r1bBTGidyEnA"
-
 syndirella \
 	--input *_syndirella_input.csv \
 	--hits_path *_syndirella_inspiration_hits.sdf \
