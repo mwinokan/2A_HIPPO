@@ -1,0 +1,9 @@
+smiles, hit1, hit2
+CSc2ccc(Br)c3CCC(C(=O)N1CCC[C@H](C(N)=O)C1)c23,A4202a,A4386a
+NC([C@@H](CCC1)CN1C(Cc1c2SCCc2cc(Br)c1)=O)=O,A4386a
+CSc1c(CC(N(CCC2)C[C@H]2C(N)=O)=O)cc(cc[nH]2)c2c1,A4386a
+NC([C@@H](CCC1)CN1C(Cc1c2[s]cnc2cc(Br)c1)=O)=O,A4386a
+CSc(cc1)c([C@H](CCC2)C(N(CCC3)C[C@H]3C(N)=O)=O)c2c1Br,A4202a,A4386a
+NC([C@@H](CCC1)CN1C(Cc1c2[o]cnc2cc(Br)c1)=O)=O,A4386a
+CSc(c(CC(N(CCC1)C[C@H]1C(N)=O)=O)c1)cc(N)c1Br,A4386a
+CSc1c(CC(N(CCC2)C[C@H]2C(N)=O)=O)cc(C=CCN2)c2c1,A4386a
