@@ -122,3 +122,8 @@ Remove methoxy and trimethyl
 
 <img width="528" alt="Screenshot 2024-12-13 at 13 18 10" src="https://github.com/user-attachments/assets/ad40353f-878f-4edc-b975-99c0d4ae75c7" />
 
+# Filter Elabs
+
+- [ ] MuCOS
+- [ ] Negative data from P3 compounds
+- [ ] BB availability
