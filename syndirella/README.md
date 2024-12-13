@@ -128,10 +128,51 @@ Inspirations: A4202a, A4386a
 `CSc2ccc(Br)c3CCC(C(=O)N1CCC[C@H](C(N)=O)C1)c23`
 ![Screenshot 2024-12-13 at 17 49 32](https://github.com/user-attachments/assets/b77e55f2-cb63-4bdc-b479-57cf6fc385d8)
 
+## 16. Daren ASAP-0035404-DF002
 
+Inspirations: A4386a
+`NC([C@@H](CCC1)CN1C(Cc1c2SCCc2cc(Br)c1)=O)=O`
+![Screenshot 2024-12-13 at 17 50 47](https://github.com/user-attachments/assets/12a1ae99-baa7-4ad9-90bc-c0a769c9a1fc)
+
+## 17. Daren ASAP-0035404_DF003
+
+Inspirations: A4386a
+`CSc1c(CC(N(CCC2)C[C@H]2C(N)=O)=O)cc(cc[nH]2)c2c1`
+![Screenshot 2024-12-13 at 17 51 45](https://github.com/user-attachments/assets/76f41aee-129f-41f0-8f8a-1734929cfdca)
+
+## 18. Daren ASAP-0035404_DF004
+
+Inspirations: A4386a
+`NC([C@@H](CCC1)CN1C(Cc1c2[s]cnc2cc(Br)c1)=O)=O`
+![Screenshot 2024-12-13 at 17 52 02](https://github.com/user-attachments/assets/98530b6c-9c11-440e-a711-6cfa96ca1149)
+
+## 19. Daren ASAP-0034411_ASAP-0035404_DF005
+
+Inspirations: A4202a, A4386a
+`CSc(cc1)c([C@H](CCC2)C(N(CCC3)C[C@H]3C(N)=O)=O)c2c1Br`
+![Screenshot 2024-12-13 at 17 53 14](https://github.com/user-attachments/assets/fd767cef-d7eb-494a-bb24-2994e5807d43)
+
+## 20. Daren   ASAP-0035404_DF006
+
+Inspirations: A4386a
+`NC([C@@H](CCC1)CN1C(Cc1c2[o]cnc2cc(Br)c1)=O)=O`
+![Screenshot 2024-12-13 at 17 53 26](https://github.com/user-attachments/assets/f71b1ff5-1a4b-4994-8435-4139856d464a)
+
+## 21. Daren ASAP-0035404_DF007
+
+Inspirations: A4386a
+`CSc(c(CC(N(CCC1)C[C@H]1C(N)=O)=O)c1)cc(N)c1Br`
+![Screenshot 2024-12-13 at 17 55 25](https://github.com/user-attachments/assets/fb520b96-834a-450a-bcab-891790c77eb9)
+
+## 22. Daren ASAP-0035404_DF008
+
+Inspirations: A4386a
+`CSc1c(CC(N(CCC2)C[C@H]2C(N)=O)=O)cc(C=CCN2)c2c1`
+![Screenshot 2024-12-13 at 17 55 31](https://github.com/user-attachments/assets/137655b1-22b0-44a4-9e95-deb8c3827869)
 
 # Filter Elabs
 
 - [ ] MuCOS
 - [ ] Negative data from P3 compounds
+
 - [ ] BB availability
