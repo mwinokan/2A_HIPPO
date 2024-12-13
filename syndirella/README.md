@@ -122,6 +122,14 @@ Remove methoxy and trimethyl
 
 <img width="528" alt="Screenshot 2024-12-13 at 13 18 10" src="https://github.com/user-attachments/assets/ad40353f-878f-4edc-b975-99c0d4ae75c7" />
 
+## 16. Daren ASAP-0034411-ASAP-0035404-DF001
+
+Inspirations: A4202a, A4386a
+`CSc2ccc(Br)c3CCC(C(=O)N1CCC[C@H](C(N)=O)C1)c23`
+![Screenshot 2024-12-13 at 17 49 32](https://github.com/user-attachments/assets/b77e55f2-cb63-4bdc-b479-57cf6fc385d8)
+
+
+
 # Filter Elabs
 
 - [ ] MuCOS
