@@ -16,3 +16,5 @@ attic/
 
 # Ignore databases
 *.sqlite
+
+syndirella/*_elabs/*/
