@@ -43,36 +43,67 @@ Remove methoxy
 
 ![Screenshot 2024-12-13 at 12 56 05](https://github.com/user-attachments/assets/efb90143-77c5-40ac-8660-278e1f67b613)
 
-## 7. A4260a "undeorated"
+## 7. A4260a "undecorated"
 
 Remove chlorine
+
+<img width="458" alt="Screenshot 2024-12-13 at 13 01 25" src="https://github.com/user-attachments/assets/1cb5ce96-e0fd-419b-9d53-00ab873243a4" />
 
 ## 8. A3606a "undecorated"
 
 Remove shrek ring & methyl
 
+<img width="604" alt="Screenshot 2024-12-13 at 13 02 26" src="https://github.com/user-attachments/assets/62f3d27b-c7b7-4050-a85b-32cf403ebb6e" />
+
 ## 9. A3522a "undecorated"
 
 Remove halogen & chop off methoxy
+
+<img width="550" alt="Screenshot 2024-12-13 at 13 03 49" src="https://github.com/user-attachments/assets/3ee6c3e0-2285-469f-b2a3-8b4d50eead86" />
 
 ## 10. A3488a "undecorated"
 
 Remove halogen & chop off methoxy
 
-## 11. A4081a "undecorated"
+<img width="519" alt="Screenshot 2024-12-13 at 13 04 47" src="https://github.com/user-attachments/assets/0f50b04b-094e-4574-a39b-4b3edf240aeb" />
+
+## 11. A4018a "undecorated"
 
 Remove methoxy
 
+`COc1ccccc1CC(=O)N1CCC[C@H](C(N)=O)CC1`
+
+<img width="469" alt="Screenshot 2024-12-13 at 13 06 21" src="https://github.com/user-attachments/assets/912a4887-f86d-48e1-b3bc-8c6ef2f14a6d" />
+
 ## 12. A3665a "undecorated"
+
+Remove fluorines & methoxy
+
+`COc1ccccc1CC(=O)N1C[C@@H](C(N)=O)CC(F)(F)C1`
+
+<img width="439" alt="Screenshot 2024-12-13 at 13 07 37" src="https://github.com/user-attachments/assets/ef172b8d-3e76-4f09-bacf-893599d23836" />
+
 
 ## 13. A4202a "undecorated"
 
 Remove Bromine
 
-## 14. A4517a "undecorated"
+`NC(=O)[C@H]1CCCN(C(=O)[C@H]2CCc3cccc(Br)c32)C1`
+
+<img width="406" alt="Screenshot 2024-12-13 at 13 08 30" src="https://github.com/user-attachments/assets/d5466598-4c35-4672-ba32-e8afa5e09cda" />
+
+## 14. A4317a "undecorated"
 
 Remove propane dorito & methoxy
+
+`COc1ccccc1CC(=O)N1C[C@@H](C(N)=O)CC12CC2`
+
+<img width="444" alt="Screenshot 2024-12-13 at 13 09 26" src="https://github.com/user-attachments/assets/8ad51e1b-de45-4410-a699-0def7bd5dbb4" />
 
 ## 15. A3884a "undecorated"
 
 Remove methoxy and trimethyl
+
+`COc1ccccc1[C@H](NC(=O)OC(C)(C)C)C(=O)N1CCC[C@H](C(N)=O)C1`
+
+<img width="536" alt="Screenshot 2024-12-13 at 13 10 28" src="https://github.com/user-attachments/assets/693ba64c-1727-4ae4-bd3c-b1f69728d1cd" />
