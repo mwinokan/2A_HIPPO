@@ -13,6 +13,8 @@
 
 Remove thioether
 
+`NC(=O)[C@H]2CCCN(C(=O)Cc1ccccc1)C2`
+
 ![Screenshot 2024-12-13 at 12 53 09](https://github.com/user-attachments/assets/de6bbe37-abe2-4576-a216-1cee8000c1a9)
 
 ## 3. A3392a "as-is"
@@ -25,6 +27,8 @@ Remove thioether
 ## 4. A3392a "bare ring"
 
 Remove urea/amide on bicycle
+
+`O=C(NCCc1cocn1)C3CCc2ccccc23`
 
 ![Screenshot 2024-12-13 at 12 54 29](https://github.com/user-attachments/assets/b2f2bd78-a1fe-41ea-8541-d6d9f3d05aed)
 
@@ -41,17 +45,23 @@ Remove urea/amide on bicycle
 
 Remove methoxy
 
+`NC(=O)[C@H]2CCCN(C(=O)Cc1ccccn1)C2`
+
 ![Screenshot 2024-12-13 at 12 56 05](https://github.com/user-attachments/assets/efb90143-77c5-40ac-8660-278e1f67b613)
 
 ## 7. A4260a "undecorated"
 
 Remove chlorine
 
+`NC(=O)[C@H]3CCCN(C(=O)[C@H]2CCOc1ccccc12)C3`
+
 <img width="458" alt="Screenshot 2024-12-13 at 13 01 25" src="https://github.com/user-attachments/assets/1cb5ce96-e0fd-419b-9d53-00ab873243a4" />
 
 ## 8. A3606a "undecorated"
 
 Remove shrek ring & methyl
+
+`NC(=O)[C@H]2CCCN(C(=O)Cc1ccn[nH]1)C2`
 
 <img width="604" alt="Screenshot 2024-12-13 at 13 02 26" src="https://github.com/user-attachments/assets/62f3d27b-c7b7-4050-a85b-32cf403ebb6e" />
 
