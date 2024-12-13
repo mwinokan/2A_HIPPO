@@ -67,13 +67,17 @@ Remove shrek ring & methyl
 
 ## 9. A3522a "undecorated"
 
-Remove halogen & chop off methoxy
+Remove halogen & chop off methoxy, methyl
+
+`O=CNc1ccccc1OCc2ncccn2`
 
 <img width="550" alt="Screenshot 2024-12-13 at 13 03 49" src="https://github.com/user-attachments/assets/3ee6c3e0-2285-469f-b2a3-8b4d50eead86" />
 
 ## 10. A3488a "undecorated"
 
-Remove halogen & chop off methoxy
+Remove halogen & chop off methoxy, methyl
+
+`NC(=O)c2cccc(Oc1ccccc1NC=O)c2`
 
 <img width="519" alt="Screenshot 2024-12-13 at 13 04 47" src="https://github.com/user-attachments/assets/0f50b04b-094e-4574-a39b-4b3edf240aeb" />
 
@@ -81,7 +85,7 @@ Remove halogen & chop off methoxy
 
 Remove methoxy
 
-`COc1ccccc1CC(=O)N1CCC[C@H](C(N)=O)CC1`
+`NC(=O)[C@H]2CCCN(C(=O)Cc1ccccc1)CC2`
 
 <img width="469" alt="Screenshot 2024-12-13 at 13 06 21" src="https://github.com/user-attachments/assets/912a4887-f86d-48e1-b3bc-8c6ef2f14a6d" />
 
@@ -89,7 +93,7 @@ Remove methoxy
 
 Remove fluorines & methoxy
 
-`COc1ccccc1CC(=O)N1C[C@@H](C(N)=O)CC(F)(F)C1`
+`NC(=O)[C@H]2CCCN(C(=O)Cc1ccccc1)C2`
 
 <img width="439" alt="Screenshot 2024-12-13 at 13 07 37" src="https://github.com/user-attachments/assets/ef172b8d-3e76-4f09-bacf-893599d23836" />
 
@@ -98,7 +102,7 @@ Remove fluorines & methoxy
 
 Remove Bromine
 
-`NC(=O)[C@H]1CCCN(C(=O)[C@H]2CCc3cccc(Br)c32)C1`
+`NC(=O)[C@H]3CCCN(C(=O)[C@H]2CCc1ccccc12)C3`
 
 <img width="406" alt="Screenshot 2024-12-13 at 13 08 30" src="https://github.com/user-attachments/assets/d5466598-4c35-4672-ba32-e8afa5e09cda" />
 
@@ -106,7 +110,7 @@ Remove Bromine
 
 Remove propane dorito & methoxy
 
-`COc1ccccc1CC(=O)N1C[C@@H](C(N)=O)CC12CC2`
+`NC(=O)[C@H]2CCN(C(=O)Cc1ccccc1)C2`
 
 <img width="444" alt="Screenshot 2024-12-13 at 13 09 26" src="https://github.com/user-attachments/assets/8ad51e1b-de45-4410-a699-0def7bd5dbb4" />
 
@@ -114,6 +118,6 @@ Remove propane dorito & methoxy
 
 Remove methoxy and trimethyl
 
-`COc1ccccc1[C@H](NC(=O)OC(C)(C)C)C(=O)N1CCC[C@H](C(N)=O)C1`
+`NC(=O)[C@H]2CCCN(C(=O)[C@@H](NC(=O)O)c1ccccc1)C2`
 
 <img width="536" alt="Screenshot 2024-12-13 at 13 10 28" src="https://github.com/user-attachments/assets/693ba64c-1727-4ae4-bd3c-b1f69728d1cd" />
