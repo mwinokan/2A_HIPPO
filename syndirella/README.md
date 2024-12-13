@@ -120,4 +120,5 @@ Remove methoxy and trimethyl
 
 `NC(=O)[C@H]2CCCN(C(=O)[C@@H](NC(=O)O)c1ccccc1)C2`
 
-<img width="536" alt="Screenshot 2024-12-13 at 13 10 28" src="https://github.com/user-attachments/assets/693ba64c-1727-4ae4-bd3c-b1f69728d1cd" />
+<img width="528" alt="Screenshot 2024-12-13 at 13 18 10" src="https://github.com/user-attachments/assets/ad40353f-878f-4edc-b975-99c0d4ae75c7" />
+
