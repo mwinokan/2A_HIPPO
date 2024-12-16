@@ -19,7 +19,7 @@
 | A4317a_undecorated              |   1811 |        7104 |                        |
 | A4386a                          |   1990 |       11632 |                        |
 | ASAP-0034411-ASAP-0035404-DF001 |        |             | **NoSynthesisRoute** |
-| ASAP-0034411_ASAP-0035404_DF005 | **Running**       |             |                 |
+| ASAP-0034411_ASAP-0035404_DF005 |       |             |  **NoSynthesisRoute**               |
 | ASAP-0035404-DF002              |        |             | **NoSynthesisRoute**                       |
 | ASAP-0035404_DF003              |        |             | **NoSynthesisRoute**                       |
 | ASAP-0035404_DF004              |   1642 |        6544 |                        |
