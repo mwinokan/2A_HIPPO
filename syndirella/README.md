@@ -18,14 +18,14 @@
 | A4283a_undecorated              |   1794 |        5708 |                        |
 | A4317a_undecorated              |   1811 |        7104 |                        |
 | A4386a                          |   1990 |       11632 |                        |
-| ASAP-0034411-ASAP-0035404-DF001 |  **Running**      |             | ScaffoldPlacementError |
+| ASAP-0034411-ASAP-0035404-DF001 |  **Running**      |             | **ScaffoldPlacementError** |
 | ASAP-0034411_ASAP-0035404_DF005 |        |             |                        |
-| ASAP-0035404-DF002              |        |             |                        |
-| ASAP-0035404_DF003              |        |             |                        |
+| ASAP-0035404-DF002              |        |             | **NoSynthesisRoute**                       |
+| ASAP-0035404_DF003              |        |             | **NoSynthesisRoute**                       |
 | ASAP-0035404_DF004              |   1642 |        6544 |                        |
 | ASAP-0035404_DF006              |   1487 |        6758 |                        |
-| ASAP-0035404_DF007              |        |             |                        |
-| ASAP-0035404_DF008              |        |             |                        |
+| ASAP-0035404_DF007              |        |             | **NoSynthesisRoute**                       |
+| ASAP-0035404_DF008              |        |             | **NoSynthesisRoute**                       |
 
 
 
