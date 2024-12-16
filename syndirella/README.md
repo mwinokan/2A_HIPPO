@@ -11,14 +11,14 @@
 | A3606a_undecorated              |   1507 |        5276 |                        |
 | A3665a_undecorated              |   1736 |       10865 |                        |
 | A3884a_undecorated              |   1107 |        5479 |                        |
-| A4018a_undecorated              |        |             | ScaffoldPlacementError |
+| A4018a_undecorated              |   **Running** |             | **ScaffoldPlacementError** |
 | A4202a_undecorated              |   1010 |        5381 |                        |
 | A4260a_undecorated              |   1085 |        5867 |                        |
 | A4283a                          |   1759 |        5397 |                        |
 | A4283a_undecorated              |   1794 |        5708 |                        |
 | A4317a_undecorated              |   1811 |        7104 |                        |
 | A4386a                          |   1990 |       11632 |                        |
-| ASAP-0034411-ASAP-0035404-DF001 |        |             | ScaffoldPlacementError |
+| ASAP-0034411-ASAP-0035404-DF001 |  **Running**      |             | ScaffoldPlacementError |
 | ASAP-0034411_ASAP-0035404_DF005 |        |             |                        |
 | ASAP-0035404-DF002              |        |             |                        |
 | ASAP-0035404_DF003              |        |             |                        |
