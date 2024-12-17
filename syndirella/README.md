@@ -11,7 +11,7 @@
 | A3606a_undecorated              |   1507 |        5276 |                        |
 | A3665a_undecorated              |   1736 |       10865 |                        |
 | A3884a_undecorated              |   1107 |        5479 |                        |
-| A4018a_undecorated              |   **Running** |             |  |
+| A4018a_undecorated              |   1000 |        6389 |  |
 | A4202a_undecorated              |   1010 |        5381 |                        |
 | A4260a_undecorated              |   1085 |        5867 |                        |
 | A4283a                          |   1759 |        5397 |                        |
